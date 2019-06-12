@@ -5,7 +5,9 @@ STEPS
 
 2)download  jd-cli from below link and keep it in the same folder as your script.py file 
 ->link:https://github.com/kwart/jd-cmd/tree/master/jd-cli
+
 3)have your .apk file in the same folder as your script.py and jd-cli 
+
 4)run the script.py from the command line
 python3 script.py
 
